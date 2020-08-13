@@ -1,3 +1,4 @@
+gem install 'nokogiri'
 require 'nokogiri'
 require 'open-uri'
 
